@@ -23,7 +23,7 @@
 <h2 align="left">🎯 What I'm Pursuing</h2>
 
 <p align="left">
-→ Deep fluency in <strong>PHP</strong>, <strong>Symfony</strong>, <strong>MySQL</strong>, and <strong>Git</strong> workflows<br>
+→ Deep fluency in <strong>.NET</strong>, <strong>Angular</strong>, <strong>MSSQL</strong>, and <strong>Git</strong> workflows<br>
 → Strong grasp of <strong>design patterns</strong>, <strong>OOP</strong>, and <strong>enterprise architecture</strong><br>
 → Building projects that solve actual business problems
 </p>
