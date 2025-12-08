@@ -38,13 +38,13 @@ Currently working with **.NET**, **Angular**, and **MSSQL** — learning somethi
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=patmat511&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="streak stats" />
+  <img src="https://github-readme-stats-red-nine-l0.vercel.app/api?username=patmat511&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="github stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patmat511&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="github stats" />
+  <img src="https://github-readme-stats-red-nine-l0.vercel.app/api/top-langs/?username=patmat511&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
 </div>
 
 ---
