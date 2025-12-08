@@ -1,67 +1,53 @@
-###
+<div align="center">
+  
+# Hey, I'm Patryk 👋
 
-<h1 align="center">Welcome to my domain 👋</h1>
+**Computer Science Student · Backend Developer · .NET Enthusiast**
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patryk-matusiak-7a6627303)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/patmat511/)
 
-<h3 align="left">👩‍💻  About Me</h3>
+</div>
 
-###
+---
 
-<p align="left">
-  I’m Patryk, a Computer Science student relentlessly pursuing excellence in software engineering. Passionate about system design, backend development, and clean, scalable architecture.
-</p>
+### About Me
 
-<h2 align="left">🧠 Who am I?</h2>
+I'm a CS student from Poland focused on backend development and system design. I enjoy building clean, maintainable software and understanding how things work under the hood.
 
-<p align="left">
-→ Precision-driven and goal-oriented<br>
-→ Operating in high-focus, high-discipline mode<br>
-→ Obsessed with understanding software at the system level
-</p>
+Currently working with **.NET**, **Angular**, and **MSSQL** — learning something new every day.
 
-<h2 align="left">🎯 What I'm Pursuing</h2>
+---
 
-<p align="left">
-→ Deep fluency in <strong>.NET</strong>, <strong>Angular</strong>, <strong>MSSQL</strong>, and <strong>Git</strong> workflows<br>
-→ Strong grasp of <strong>design patterns</strong>, <strong>OOP</strong>, and <strong>enterprise architecture</strong><br>
-→ Building projects that solve actual business problems
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,angular,docker,azure,git" />
 </div>
 
-###
+---
 
-###
+### What I'm Focused On
 
-<h3 align="left">🔥   My Stats :</h3>
+- Building full-stack applications with **.NET** and **Angular**
+- Deepening my understanding of **design patterns** and **clean architecture**
+- Solving problems on **LeetCode** to sharpen my algorithmic thinking
 
-###
+---
+
+### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=patmat511&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=patmat511&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patmat511&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs" height="180" alt="stats graph" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patmat511&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<div align="center">
+  <i>Open to collaboration and always happy to connect!</i>
+</div>
