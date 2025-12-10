@@ -35,19 +35,6 @@ Currently working with **.NET**, **Angular**, and **MSSQL** — learning somethi
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-red-nine-l0.vercel.app/api?username=patmat511&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="github stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-red-nine-l0.vercel.app/api/top-langs/?username=patmat511&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
-</div>
-
----
 
 <div align="center">
   <i>Open to collaboration and always happy to connect!</i>
