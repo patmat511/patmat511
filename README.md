@@ -22,7 +22,7 @@ Currently working with **.NET**, **Angular**, and **MSSQL** — learning somethi
 ### Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,angular,docker,azure,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,docker,azure,git" />
 </div>
 
 ---
