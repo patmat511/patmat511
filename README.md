@@ -33,7 +33,12 @@ Currently working with **.NET**, **Angular**, and **MSSQL** — learning somethi
 - Deepening my understanding of **design patterns** and **clean architecture**
 - Solving problems on **LeetCode** to sharpen my algorithmic thinking
 
----
+
+<div align="center">
+  <h3>Current Streak 🔥</h3>
+  <img src="https://streak-stats.demolab.com/?user=patmat511&theme=react&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
 
 
 <div align="center">
