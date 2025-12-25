@@ -36,7 +36,8 @@ Currently working with **.NET**, **Angular**, and **MSSQL** — learning somethi
 
 <div align="center">
   <h3>Current Streak 🔥</h3>
-  <img src="https://streak-stats.demolab.com/?user=patmat511&theme=react&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=patmat511&theme=react&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak"
+       width="400"/>
 </div>
 
 
