@@ -1,47 +1,27 @@
-<div align="center">
-  
-# Hey, I'm Patryk 👋
+<img width="1200" height="480" alt="Patryk_Matusiak_banner" src="https://github.com/user-attachments/assets/ec9b3e8f-b94f-4072-ae9e-ce3c54c0fde7" />
 
-**Computer Science Student · Backend Developer · .NET Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patryk-matusiak-7a6627303)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/patmat511/)
-
-</div>
-
----
-
-### About Me
-
-I'm a CS student from Poland focused on backend development and system design. I enjoy building clean, maintainable software and understanding how things work under the hood.
-
-Currently working with **.NET**, **Angular**, and **MSSQL** — learning something new every day.
+I focus on building scalable and maintainable backend systems using .NET and MSSQL. I'm a strong advocate for clean boundaries, clear contracts, and simple data models. Currently, I'm expanding my horizons with Angular to better understand the end-to-end request flow and design more efficient, developer-friendly APIs.
 
 ---
 
 ### Tech Stack
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,docker,azure,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </div>
 
----
-
-### What I'm Focused On
-
-- Building full-stack applications with **.NET** and **Angular**
-- Deepening my understanding of **design patterns** and **clean architecture**
-- Solving problems on **LeetCode** to sharpen my algorithmic thinking
-
-
-<div align="center">
-  <h3>Current Streak 🔥</h3>
-  <img src="https://streak-stats.demolab.com/?user=patmat511&theme=react&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak"
-       width="400"/>
+### Currently learning
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
 </div>
 
+**What I'm working on right now**
 
-
-<div align="center">
-  <i>Open to collaboration and always happy to connect!</i>
-</div>
+- Building RESTful APIs with ASP.NET Core and Entity Framework
+- Improving database performance and query optimization in MSSQL
+- Shipping small full‑stack features with .NET backend and Angular frontend
