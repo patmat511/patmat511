@@ -1,4 +1,5 @@
-<img width="1200" height="480" alt="Patryk_Matusiak_banner" src="https://github.com/user-attachments/assets/ec9b3e8f-b94f-4072-ae9e-ce3c54c0fde7" />
+
+![gitbanner](https://github.com/user-attachments/assets/a0174249-6711-4da0-8a8d-8831202add7d)
 
 
 <div align="center">
